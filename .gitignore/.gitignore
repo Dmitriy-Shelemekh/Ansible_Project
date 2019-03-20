@@ -1,0 +1,9 @@
+.IDEA
+*.IML
+OUT
+LOG
+/OUTPUT/
+/lib/
+/lesson/
+/output/
+/target/
