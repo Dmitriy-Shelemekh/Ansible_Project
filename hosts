@@ -1,0 +1,1 @@
+alfa ansible_host=ec2-54-191-253-154.us-west-2.compute.amazonaws.com ansible_user=ec2-user ansible_private_key_file=~/.ssh/alfa.pem
