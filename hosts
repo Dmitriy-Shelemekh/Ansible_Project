@@ -1,5 +1,5 @@
 [ALFA_SERVERS]
-alfa ansible_host=54.218.62.102
+alfa ansible_host=54.149.213.249
 
 [BETA_SERVERS]
 beta ansible_host=54.212.62.67
