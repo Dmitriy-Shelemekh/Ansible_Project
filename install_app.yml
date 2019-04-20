@@ -16,7 +16,8 @@
   - name: Copy page to servers
     copy: 
      src={{ source_file }} 
-     dest={{ destination_file }} mode=0555
+     dest={{ destination_file }}
+     mode: 0555
     notify: Restart Apache
 
   - name: Star server
